@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        NoYTinfoPanel
-// @version     1.o
+// @version     1.0
 // @description Get rid of info panel on YT
 // @author      VanishingTacos
 // @namespace   https://www.reddit.com/user/VanishingTacos/
